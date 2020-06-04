@@ -1,0 +1,23 @@
+.jumbotron {
+	background-image:url()
+	color:white;
+}
+h1 {
+	color:#900c3f;
+	text-align: center;
+
+}
+h2 {
+	
+	font-size: 40px;
+	text-decoration: underline;
+
+
+}
+p {
+	font-size:20px;
+}
+li {
+	font-size:20px;
+	list-style-type: square;
+}
